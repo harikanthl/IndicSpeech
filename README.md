@@ -1,6 +1,11 @@
-# IndicSpeech
+<p align="center">
+  <img src=".github/logo.png" alt="IndicSpeech logo: a sound wave turning into a handwritten stroke" width="320">
+</p>
 
-**On-device speech recognition for 22 Indian languages on iPhone and Mac.**
+<h1 align="center">IndicSpeech</h1>
+
+<p align="center"><b>On-device speech recognition for 22 Indian languages on iPhone and Mac.</b><br>
+తెలుగు · हिन्दी · தமிழ் · বাংলা · ಕನ್ನಡ · ગુજરાતી · മലയാളം · मराठी · ଓଡ଼ିଆ · ਪੰਜਾਬੀ · اردو …</p>
 
 IndicSpeech runs [AI4Bharat](https://ai4bharat.iitm.ac.in/)'s
 [IndicConformer 600M](https://github.com/AI4Bharat/IndicConformerASR) on the Apple Neural Engine. It turns speech in
