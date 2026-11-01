@@ -1,0 +1,51 @@
+{
+ "languages": [
+  "te",
+  "ta",
+  "hi"
+ ],
+ "num_classes": 5633,
+ "columns_per_language": 257,
+ "blank_column": 256,
+ "vocab_sizes": {
+  "as": 256,
+  "bn": 256,
+  "brx": 256,
+  "doi": 256,
+  "kok": 256,
+  "gu": 256,
+  "hi": 256,
+  "kn": 256,
+  "ks": 256,
+  "mai": 256,
+  "ml": 256,
+  "mr": 256,
+  "mni": 256,
+  "ne": 256,
+  "or": 256,
+  "pa": 256,
+  "sa": 256,
+  "sat": 256,
+  "sd": 256,
+  "ta": 256,
+  "te": 256,
+  "ur": 256
+ },
+ "contiguous_blocks": true,
+ "blank_shared": true,
+ "window_mel_frames": 1536,
+ "window_encoder_frames": 192,
+ "frame_seconds": 0.08,
+ "preprocessor": {
+  "sample_rate": 16000,
+  "n_fft": 512,
+  "hop_length": 160,
+  "win_length": 400,
+  "n_mels": 80,
+  "preemphasis": 0.97,
+  "log_zero_guard": 5.960464477539063e-08,
+  "normalize_guard": 1e-05,
+  "normalize": "per_feature",
+  "mag_power": 2.0
+ }
+}

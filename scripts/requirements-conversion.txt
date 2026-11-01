@@ -1,0 +1,48 @@
+# One venv on the conversion machine (Linux or macOS, CPU is enough): the AI4Bharat NeMo fork (nemo-v2, 1.23.0rc0)
+# for the reference, and coremltools 9.0 for the conversion. The fork doesn't pin torch; 2.7.0 is the newest
+# torch coremltools 9.0 is tested with. Install with: uv pip install -r requirements-conversion.txt
+# --extra-index-url https://download.pytorch.org/whl/cpu  (then the fork itself with --no-deps, see README.md)
+torch==2.7.0
+coremltools==9.0
+numpy==1.26.4
+setuptools==69.5.1
+pytorch-lightning==2.2.5
+torchmetrics==1.4.0
+hydra-core==1.3.2
+omegaconf==2.3.0
+transformers==4.40.2
+huggingface_hub==0.23.2
+sentencepiece==0.2.0
+lhotse==1.24.2
+librosa==0.10.2.post1
+soundfile==0.12.1
+scipy==1.13.1
+numba==0.60.0
+pyannote.core==5.0.0
+pyannote.metrics==3.2.1
+editdistance==0.8.1
+jiwer==3.0.4
+kaldiio==2.18.0
+kaldi-python-io==1.2.2
+webdataset==0.2.86
+braceexpand==0.1.7
+marshmallow==3.21.3
+matplotlib==3.9.0
+packaging==24.1
+pydub==0.25.1
+pyloudnorm==0.1.1
+resampy==0.4.3
+ruamel.yaml==0.18.6
+inflect==7.3.0
+pandas==2.2.2
+sacremoses==0.1.1
+text-unidecode==1.3
+wrapt==1.16.0
+scikit-learn==1.5.0
+onnx==1.16.1
+tensorboard==2.17.0
+wget==3.2
+python-dateutil==2.9.0.post0
+tqdm==4.66.4
+datasets==2.19.2
+ipython==8.25.0

@@ -1,0 +1,403 @@
+{
+ "te": {
+  "clip": "te_fleurs_1",
+  "mel_frames": 151,
+  "mel_samples": 24000,
+  "ctc_frames": 104,
+  "nemo_ctc_text": " చిన్న ద్వీపాలలో చాలా వరకు స్వతంత్ర దేశాలు లేదా ఫ్రాన్స్తో సంబంధం కలిగి ఉన్నాయి ఇంకా వీటిని లగ్జరీ బీచ్ రిసార్ట్స్ను అని పిలుస్తారు",
+  "greedy_words": [
+   {
+    "word": "చిన్న",
+    "first": 0,
+    "last": 2,
+    "start": 0.0,
+    "end": 0.24
+   },
+   {
+    "word": "ద్వీపాలలో",
+    "first": 5,
+    "last": 12,
+    "start": 0.4,
+    "end": 1.04
+   },
+   {
+    "word": "చాలా",
+    "first": 13,
+    "last": 15,
+    "start": 1.04,
+    "end": 1.28
+   },
+   {
+    "word": "వరకు",
+    "first": 16,
+    "last": 18,
+    "start": 1.28,
+    "end": 1.52
+   },
+   {
+    "word": "స్వతంత్ర",
+    "first": 20,
+    "last": 25,
+    "start": 1.6,
+    "end": 2.08
+   },
+   {
+    "word": "దేశాలు",
+    "first": 26,
+    "last": 29,
+    "start": 2.08,
+    "end": 2.4
+   },
+   {
+    "word": "లేదా",
+    "first": 31,
+    "last": 33,
+    "start": 2.48,
+    "end": 2.72
+   },
+   {
+    "word": "ఫ్రాన్స్తో",
+    "first": 34,
+    "last": 40,
+    "start": 2.72,
+    "end": 3.28
+   },
+   {
+    "word": "సంబంధం",
+    "first": 42,
+    "last": 47,
+    "start": 3.36,
+    "end": 3.84
+   },
+   {
+    "word": "కలిగి",
+    "first": 48,
+    "last": 51,
+    "start": 3.84,
+    "end": 4.16
+   },
+   {
+    "word": "ఉన్నాయి",
+    "first": 52,
+    "last": 56,
+    "start": 4.16,
+    "end": 4.56
+   },
+   {
+    "word": "ఇంకా",
+    "first": 57,
+    "last": 59,
+    "start": 4.56,
+    "end": 4.8
+   },
+   {
+    "word": "వీటిని",
+    "first": 60,
+    "last": 63,
+    "start": 4.8,
+    "end": 5.12
+   },
+   {
+    "word": "లగ్జరీ",
+    "first": 65,
+    "last": 72,
+    "start": 5.2,
+    "end": 5.84
+   },
+   {
+    "word": "బీచ్",
+    "first": 73,
+    "last": 75,
+    "start": 5.84,
+    "end": 6.08
+   },
+   {
+    "word": "రిసార్ట్స్ను",
+    "first": 77,
+    "last": 86,
+    "start": 6.16,
+    "end": 6.96
+   },
+   {
+    "word": "అని",
+    "first": 89,
+    "last": 90,
+    "start": 7.12,
+    "end": 7.28
+   },
+   {
+    "word": "పిలుస్తారు",
+    "first": 92,
+    "last": 100,
+    "start": 7.36,
+    "end": 8.08
+   }
+  ],
+  "nemo_ctc_words": null
+ },
+ "ta": {
+  "clip": "ta_fleurs_1",
+  "mel_frames": 151,
+  "mel_samples": 24000,
+  "ctc_frames": 98,
+  "nemo_ctc_text": " இது வேதியல் பீகச் என அழைக்கப்படுகிறது நீங்கள் சிவப்பு முட்டைக்கோாற்றைப் பயன்படுத்தி ஒரு குறிகாட்டியை உருவாக்கலாம்",
+  "greedy_words": [
+   {
+    "word": "இது",
+    "first": 5,
+    "last": 6,
+    "start": 0.4,
+    "end": 0.56
+   },
+   {
+    "word": "வேதியல்",
+    "first": 9,
+    "last": 17,
+    "start": 0.72,
+    "end": 1.44
+   },
+   {
+    "word": "பீகச்",
+    "first": 19,
+    "last": 25,
+    "start": 1.52,
+    "end": 2.08
+   },
+   {
+    "word": "என",
+    "first": 28,
+    "last": 28,
+    "start": 2.24,
+    "end": 2.32
+   },
+   {
+    "word": "அழைக்கப்படுகிறது",
+    "first": 30,
+    "last": 39,
+    "start": 2.4,
+    "end": 3.2
+   },
+   {
+    "word": "நீங்கள்",
+    "first": 41,
+    "last": 42,
+    "start": 3.28,
+    "end": 3.44
+   },
+   {
+    "word": "சிவப்பு",
+    "first": 44,
+    "last": 48,
+    "start": 3.52,
+    "end": 3.92
+   },
+   {
+    "word": "முட்டைக்கோாற்றைப்",
+    "first": 50,
+    "last": 65,
+    "start": 4.0,
+    "end": 5.28
+   },
+   {
+    "word": "பயன்படுத்தி",
+    "first": 66,
+    "last": 72,
+    "start": 5.28,
+    "end": 5.84
+   },
+   {
+    "word": "ஒரு",
+    "first": 73,
+    "last": 73,
+    "start": 5.84,
+    "end": 5.92
+   },
+   {
+    "word": "குறிகாட்டியை",
+    "first": 75,
+    "last": 84,
+    "start": 6.0,
+    "end": 6.8
+   },
+   {
+    "word": "உருவாக்கலாம்",
+    "first": 87,
+    "last": 95,
+    "start": 6.96,
+    "end": 7.68
+   }
+  ],
+  "nemo_ctc_words": null
+ },
+ "hi": {
+  "clip": "hi_fleurs_1",
+  "mel_frames": 151,
+  "mel_samples": 24000,
+  "ctc_frames": 115,
+  "nemo_ctc_text": " कुछ अणुओं में अस्थिर केंद्रक होता है जिसका मतलब यह कि उनमें थोड़े या बिना किसी झटके से टूटने की प्रवृत्ति होती है",
+  "greedy_words": [
+   {
+    "word": "कुछ",
+    "first": 4,
+    "last": 6,
+    "start": 0.32,
+    "end": 0.56
+   },
+   {
+    "word": "अणुओं",
+    "first": 8,
+    "last": 16,
+    "start": 0.64,
+    "end": 1.36
+   },
+   {
+    "word": "में",
+    "first": 17,
+    "last": 17,
+    "start": 1.36,
+    "end": 1.44
+   },
+   {
+    "word": "अस्थिर",
+    "first": 19,
+    "last": 26,
+    "start": 1.52,
+    "end": 2.16
+   },
+   {
+    "word": "केंद्रक",
+    "first": 29,
+    "last": 35,
+    "start": 2.32,
+    "end": 2.88
+   },
+   {
+    "word": "होता",
+    "first": 36,
+    "last": 38,
+    "start": 2.88,
+    "end": 3.12
+   },
+   {
+    "word": "है",
+    "first": 39,
+    "last": 39,
+    "start": 3.12,
+    "end": 3.2
+   },
+   {
+    "word": "जिसका",
+    "first": 41,
+    "last": 43,
+    "start": 3.28,
+    "end": 3.52
+   },
+   {
+    "word": "मतलब",
+    "first": 45,
+    "last": 48,
+    "start": 3.6,
+    "end": 3.92
+   },
+   {
+    "word": "यह",
+    "first": 49,
+    "last": 49,
+    "start": 3.92,
+    "end": 4.0
+   },
+   {
+    "word": "कि",
+    "first": 54,
+    "last": 54,
+    "start": 4.32,
+    "end": 4.4
+   },
+   {
+    "word": "उनमें",
+    "first": 56,
+    "last": 59,
+    "start": 4.48,
+    "end": 4.8
+   },
+   {
+    "word": "थोड़े",
+    "first": 61,
+    "last": 65,
+    "start": 4.88,
+    "end": 5.28
+   },
+   {
+    "word": "या",
+    "first": 67,
+    "last": 68,
+    "start": 5.36,
+    "end": 5.52
+   },
+   {
+    "word": "बिना",
+    "first": 69,
+    "last": 71,
+    "start": 5.52,
+    "end": 5.76
+   },
+   {
+    "word": "किसी",
+    "first": 73,
+    "last": 75,
+    "start": 5.84,
+    "end": 6.08
+   },
+   {
+    "word": "झटके",
+    "first": 77,
+    "last": 82,
+    "start": 6.16,
+    "end": 6.64
+   },
+   {
+    "word": "से",
+    "first": 83,
+    "last": 83,
+    "start": 6.64,
+    "end": 6.72
+   },
+   {
+    "word": "टूटने",
+    "first": 85,
+    "last": 90,
+    "start": 6.8,
+    "end": 7.28
+   },
+   {
+    "word": "की",
+    "first": 92,
+    "last": 92,
+    "start": 7.36,
+    "end": 7.44
+   },
+   {
+    "word": "प्रवृत्ति",
+    "first": 94,
+    "last": 101,
+    "start": 7.52,
+    "end": 8.16
+   },
+   {
+    "word": "होती",
+    "first": 103,
+    "last": 105,
+    "start": 8.24,
+    "end": 8.48
+   },
+   {
+    "word": "है",
+    "first": 107,
+    "last": 107,
+    "start": 8.56,
+    "end": 8.64
+   }
+  ],
+  "nemo_ctc_words": null
+ }
+}

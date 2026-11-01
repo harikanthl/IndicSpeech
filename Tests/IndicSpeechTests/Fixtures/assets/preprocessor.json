@@ -1,0 +1,12 @@
+{
+ "sample_rate": 16000,
+ "n_fft": 512,
+ "hop_length": 160,
+ "win_length": 400,
+ "n_mels": 80,
+ "preemphasis": 0.97,
+ "log_zero_guard": 5.960464477539063e-08,
+ "normalize_guard": 1e-05,
+ "normalize": "per_feature",
+ "mag_power": 2.0
+}
